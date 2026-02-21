@@ -20,7 +20,7 @@ The experiments are split into three notebooks corresponding to the paper sectio
 | **`notebooks/02_Train_SP500.ipynb`** | **Section II** | Runs generalization experiments on S&P 500 data to test hyperparameter stability. |
 | **`notebooks/03_Train_MPE_TC.ipynb`** | **Section III, V** | Runs the **Transaction Cost** analysis (Section III) and the **MPE Cooperative Navigation** boundary test (Section V). |
 
-## 🚀 Usage
+## Usage
 
 1. **Install Dependencies**
    ```bash
